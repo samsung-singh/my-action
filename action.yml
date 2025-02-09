@@ -1,4 +1,4 @@
-name: 'My custom action
+name: 'My custom action'
 description: 'it prints the message'
 runs:
   using: 'docker'
