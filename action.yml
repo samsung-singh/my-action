@@ -1,0 +1,8 @@
+name: 'My custom action
+description: 'it prints the message'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'gift'
+  color: 'blue'
